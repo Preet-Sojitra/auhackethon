@@ -1,6 +1,6 @@
 # StockHive
 
-Add image here
+![image](https://user-images.githubusercontent.com/87543808/215322182-e7318b0a-fc01-4147-9f06-021cdd291c8e.png)
 
 ## Team Name: _ByteHogs_
 
@@ -22,7 +22,7 @@ MERN
 
 ## Presentation
 
-To be attached here
+Link to be attached here
 
 ## Team Details
 
@@ -36,7 +36,13 @@ To be attached here
 
 ## ScreenShots
 
-To be added here
+![image](https://user-images.githubusercontent.com/87543808/215322217-86f9efd2-b9d4-46d4-865e-369ec3de4120.png)
+![image](https://user-images.githubusercontent.com/87543808/215322248-ed139182-429e-42a4-8c32-db5bbb90c1f5.png)
+![image](https://user-images.githubusercontent.com/87543808/215322268-de226474-4089-48a8-a5ac-b2a31587ff1b.png)
+![image](https://user-images.githubusercontent.com/87543808/215322800-77afaef1-c265-40d2-9f89-cdaae9ae9d8a.png)
+![image](https://user-images.githubusercontent.com/87543808/215322824-5475d8a3-582a-4f57-a351-9de5a8292ac6.png)
+![image](https://user-images.githubusercontent.com/87543808/215322854-9e161567-6071-4344-a6f4-f1c8a84d6d04.png)
+
 
 ## Available Scripts
 
